@@ -14,8 +14,3 @@ Contents
 
 Purpose:
 The script serves as a reference and learning resource for students and developers who want to practice SQL, from basic operations to more advanced features.
-
-Usage
- - Create a database (for MySQL: CREATE DATABASE UniversityDB; USE UniversityDB;).
- - Run the script university_management.sql in your SQL client (MySQL, PostgreSQL, or SQLite).
- - Explore and modify queries to understand different SQL operations.
